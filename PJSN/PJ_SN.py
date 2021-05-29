@@ -2,15 +2,10 @@ import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
-import sklearn
-#from PIL import Image
 
-#image = Image.open('')
-#st.image(image, width=50)
 st.write(""" 
 
 # PREDICTION OF MALE OR FEMALE VOICES """)
-#st.sidebar.image(image, width=50)
 st.sidebar.header('NEW DATA')
 st.sidebar.subheader('Please enter your data:')
 
