@@ -8,7 +8,7 @@ import numpy as np
 #st.image(image, width=50)
 st.write(""" 
 
-# PREDICTION OF MALE OR FEMALE VOICES """)
+## PREDICTION OF MALE OR FEMALE VOICES """)
 #st.sidebar.image(image, width=50)
 st.sidebar.header('NEW DATA')
 st.sidebar.subheader('Please enter your data:')
