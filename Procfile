@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run MiniPro.py [-- script args]
+web: sh setup.sh && streamlit run PJ_SN.py [-- script args]
